@@ -2,4 +2,4 @@
 
 Basic Tic Tac Toe game I learnt
 
-[Live Example]()
+[Live Example](https://itsksquare.github.io/Tic-Tac-Toe/)
